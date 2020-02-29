@@ -1,0 +1,27 @@
+{
+  "name": "xitara/wormhole",
+  "description": "Wordpress Boilerplate with ES6, Babel, Timber, Webpack and more",
+  "type":"wordpress-theme",
+  "minimum-stability" : "stable",
+  "authors": [
+    {
+      "name": "Xitara Websolution - Manuel Burghammer",
+      "email": "manuel.burghammer@xitara.net",
+      "homepage": "https://xitara.net"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/xitara/wormhole/issues",
+    "source": "https://github.com/xitara/wormhole",
+    "docs": "https://github.com/xitara/wormhole/wiki"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://wpackagist.org"
+    }
+  ],
+  "require": {
+	  "timber/timber": "^1.15"
+  }
+}
