@@ -1,0 +1,11 @@
+{
+  "app.css": "assets/css/app.css",
+  "app.css.map": "assets/css/app.css.map",
+  "app.js": "assets/js/app.js",
+  "app.js.map": "assets/js/app.js.map",
+  "assets/fonts/roboto-v20-latin-regular.eot": "assets/fonts/roboto-v20-latin-regular.eot",
+  "assets/fonts/roboto-v20-latin-regular.ttf": "assets/fonts/roboto-v20-latin-regular.ttf",
+  "assets/fonts/roboto-v20-latin-regular.woff": "assets/fonts/roboto-v20-latin-regular.woff",
+  "assets/fonts/roboto-v20-latin-regular.woff2": "assets/fonts/roboto-v20-latin-regular.woff2",
+  "assets/images/roboto-v20-latin-regular.svg": "assets/images/roboto-v20-latin-regular.svg"
+}
